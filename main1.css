@@ -44,8 +44,11 @@ a{
     background-color: cornsilk;
     text-align: center;
 }
+.portfol p{
+    margin-bottom: 10px; 
+ }
 .portfol h2{
-    margin-top: 10px;
+   margin-bottom: 10px; 
 }
 .portfol .item{
     float: left;
@@ -55,6 +58,5 @@ a{
 .portfol img{
     display: block;
     width:100%;
-    margin-top: 10px;
     
 }
